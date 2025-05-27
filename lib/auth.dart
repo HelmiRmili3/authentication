@@ -4,6 +4,9 @@ library authentication;
 export 'auth_di.dart';
 
 // Export public APIs
-export 'domain/usecases/login.dart';
-export 'domain/usecases/register.dart';
-export 'domain/entities/user.dart';
+// export 'src/domain/usecases/login.dart';
+// export 'src/domain/usecases/register.dart';
+// export 'src/domain/entities/app_user.dart';
+
+// Export localization
+export 'src/core/localization/localization_provider.dart';
